@@ -10,5 +10,4 @@ setup(name='Whitescale',
       long_description='Whitespace Encoding Utility',
       platforms='Unix, Windows',
       license='None',
-      test_suite="tests",
       )
